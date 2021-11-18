@@ -1,0 +1,12 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\Challenge3.exe.config
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\Challenge3.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\Challenge3.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\Challenge3_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\ChallengeRepoInheritence.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\Challenge3_Repo.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\bin\Debug\ChallengeRepoInheritence.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\obj\Debug\Challenge1.csproj.CopyComplete
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\obj\Debug\Challenge3.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\obj\Debug\Challenge3.pdb

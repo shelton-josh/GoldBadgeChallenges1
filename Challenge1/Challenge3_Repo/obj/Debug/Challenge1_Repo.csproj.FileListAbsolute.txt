@@ -1,0 +1,6 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\bin\Debug\Challenge3_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\bin\Debug\Challenge3_Repo.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\obj\Debug\Challenge1_Repo.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\obj\Debug\Challenge1_Repo.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\obj\Debug\Challenge3_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3_Repo\obj\Debug\Challenge3_Repo.pdb

@@ -1,0 +1,16 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\UnitTestProjectBadges.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\UnitTestProjectBadges.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\BadgeRepo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\BadgeRepo.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\obj\Debug\UnitTestProjectBadges.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\obj\Debug\UnitTestProjectBadges.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\obj\Debug\UnitTestProjectBadges.csproj.CopyComplete
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\obj\Debug\UnitTestProjectBadges.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge3\Challenge3\UnitTestProjectBadges\obj\Debug\UnitTestProjectBadges.pdb

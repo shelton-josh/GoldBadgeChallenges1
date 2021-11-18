@@ -1,0 +1,6 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\bin\Debug\Challenge6_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\bin\Debug\Challenge6_Repo.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\obj\Debug\Challenge6_Repo.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\obj\Debug\Challenge6_Repo.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\obj\Debug\Challenge6_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\Challenge6_Repo\obj\Debug\Challenge6_Repo.pdb

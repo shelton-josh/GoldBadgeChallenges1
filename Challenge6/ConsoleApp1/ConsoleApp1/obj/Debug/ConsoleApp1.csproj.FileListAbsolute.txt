@@ -1,0 +1,11 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\Challenge6_Repo.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\Challenge6_RepoInheritence.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\Challenge6_RepoInheritence.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\bin\Debug\Challenge6_Repo.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\Gold_Badge_Challenge\Challenge6\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
